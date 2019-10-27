@@ -12,7 +12,7 @@ In this assignment, we created a web app that lets users view and leave comments
 
 3. Once Dependencies are loaded, Run 'npm start' or 'node server.js'
 
-4. Or visit 'https://git.heroku.com/whispering-ridge-89600.git'
+4. Or visit 'https://pacific-shelf-98310.herokuapp.com/'
 
 ### Technologies Used
 
